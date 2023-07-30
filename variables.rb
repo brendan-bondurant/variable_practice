@@ -17,3 +17,14 @@ negative_number = -5
 career_change = true
 ready_for_a_new_challenge = true
 know_everything_about_ruby = false
+too_long = true
+
+# Strings
+my_name = "Brendan S Bondurant"
+live_in_the_city_of = "Denver Colorado"
+
+puts "hello #{my_name}"
+puts "#{my_name} lives in #{live_in_the_city_of} with his wife, #{children} kids and #{pets} pets"
+puts "Some of your variable names too long? #{too_long}"
+puts "How much is this going to cost? $#{tuition_for_turing}"
+puts "It's time for a change? #{career_change}"
