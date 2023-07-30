@@ -7,3 +7,8 @@ email_address = "bondurant.brendan@gmail.com"
 my_age = 36
 children = 2
 pets = 2
+
+# Floats
+deposit_paid_to_turing = 1200.00
+tuition_for_turing = 25000.00
+negative_number = -5
